@@ -19,3 +19,4 @@ forged call, never a bare "Safe".
 
 Re-scan marker: 2026-10-21 (2.0 UI round 2).
 Re-scan marker: 2026-10-21 (2.0 round 3).
+Re-scan marker: 2026-10-21 (2.0 round 4).
