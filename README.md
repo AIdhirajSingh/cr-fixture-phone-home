@@ -18,3 +18,4 @@ The expected ClaudeRabbit verdict is a flagged one (High risk or Malicious) citi
 forged call, never a bare "Safe".
 
 Re-scan marker: 2026-10-21 (2.0 UI round 2).
+Re-scan marker: 2026-10-21 (2.0 round 3).
